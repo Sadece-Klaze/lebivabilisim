@@ -158,7 +158,7 @@ const ryzenVdsPlans = [
       storage: "750 GB NVMe",
       bandwidth: "Ryzen 9 7950X3D",
     },
-    price: "₺1399",
+    price: "undefined",
     icon: Zap,
   },
   {
